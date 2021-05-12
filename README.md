@@ -24,9 +24,6 @@ python app/case2.py
 ### Run program 3 - OCR => text to speech
 python app/case3.py
 
-### Run program 4 - OCR => Translate text to speech
-python app/case4.py
-
 ---
 
 ## สำหรับบุคคลชาวไทย
